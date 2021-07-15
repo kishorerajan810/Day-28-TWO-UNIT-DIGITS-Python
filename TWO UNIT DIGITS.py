@@ -6,4 +6,4 @@ if(c > d):
         print(i,end=" ")
 else:
     for i in range(c,d+1):
-        print(i,end=" ")
+        print(i,end=" "
